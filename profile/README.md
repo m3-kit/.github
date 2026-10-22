@@ -1,12 +1,20 @@
-## Hi there 👋
+## m3-kit
 
-<!--
+Material 3-inspired components for React, distributed the shadcn way. You install the source, and you own the code.
 
-**Here are some ideas to get you started:**
+```bash
+npx shadcn@latest add @m3/button
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| | |
+|---|---|
+| **Stack** | React 19 · Next.js 16 · Tailwind CSS v4 · TypeScript |
+| **Status** | Beta. Button is ready; more components are in progress |
+| **Docs** | [m3.nathanmwai.com](https://m3.nathanmwai.com) |
+| **Main repo** | [material-3-web](https://github.com/m3-kit/material-3-web) |
+
+**Roadmap:** Icon Button → Chips → Cards → Switch → Text Field → Dialog → Navigation Bar → FAB, plus a dedicated `m3-kit` CLI.
+
+Created and maintained by [Nathan Mwai](https://github.com/Nathan-Mwai). Contributions and issues are welcome.
+
+<sub>m3-kit is an independent project and is not affiliated with or endorsed by Google. "Material Design" is a trademark of Google LLC.</sub>
